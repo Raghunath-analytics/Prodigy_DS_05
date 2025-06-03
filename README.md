@@ -34,7 +34,7 @@ This project analyzes US car accident data from 2011, with a focus on identifyin
 - <a href="https://github.com/Raghunath-analytics/Prodigy_DS_05/blob/main/Visualization%205.jpeg">Accident by Weekday</a>
 
 
-## Key Insights
+## 🧠 Key Insights
 - Most accidents occur during the afternoon and evening.
 - Clear and cloudy conditions account for the majority of crashes, but rain and snow show increased severity.
 - Certain road types (like interstates and arterials) are more prone to accidents.
